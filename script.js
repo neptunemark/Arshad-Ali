@@ -1,12 +1,12 @@
 const person = {
     profile_pic: "./image/ashique.jpg",
-    profile_logo: "./image/icon.png",
+    profile_logo: "./image/tune.jpg",
 
     Name: "Muhammed Ashique",
     designation: "Director",
     des_link_text: "@Neptunemark",
     des_link: "",
-    contact: "./contact/Muzammil Sidhique.vcf",
+    contact: "./contact/ashique.vcf",
 };
 
 const contact ={
