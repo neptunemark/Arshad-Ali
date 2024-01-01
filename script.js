@@ -6,7 +6,7 @@ const person = {
     designation: "Asst. Manager purchase",
     des_link_text: "@carencure",
     des_link: "https://carencuregroup.com",
-    contact: "./contact/",
+    contact: "./contact/Arshad Ali.vcf",
 };
 
 const contact ={
