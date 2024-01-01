@@ -1,5 +1,5 @@
 const person = {
-    profile_pic: "./image/man.jpg",
+    profile_pic: "./image/man1.jpg",
     profile_logo: "./image/.jpg",
 
     Name: "Arshad Ali",
