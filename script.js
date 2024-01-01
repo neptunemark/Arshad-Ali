@@ -1,24 +1,24 @@
 const person = {
-    profile_pic: "./image/ashique.jpg",
-    profile_logo: "./image/tune.jpg",
+    profile_pic: "./image/man.jpg",
+    profile_logo: "./image/.jpg",
 
-    Name: "Muhammed Ashique",
-    designation: "Director",
-    des_link_text: "@Neptunemark",
-    des_link: "",
-    contact: "./contact/ashique.vcf",
+    Name: "Arshad Ali",
+    designation: "Asst. Manager purchase",
+    des_link_text: "@carencure",
+    des_link: "https://carencuregroup.com",
+    contact: "./contact/",
 };
 
 const contact ={
-    contact_no: "+919020114786",
-    whatsapp: "+919020114786",
+    contact_no: "+97444836957",
+    whatsapp: "+97474496169",
     location: "",
-    email: "muhammedashique9061@gmail.com",
+    email: "purchase@cncqatar.com",
 };
 
 const profilelogo=[
   logo={
-    visibil: true,
+    visibil: false,
   }
 ]
 
@@ -26,11 +26,11 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://m.facebook.com/story.php?story_fbid=3518586788416843&amp;substory_index=6606390962747757&amp;id=100007966689886&amp;mibextid=2JQ9oc"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://instagram.com/mhmd.ashique?igshid=OGQ5ZDc2ODk2ZA=="
   },
     skype={
@@ -38,7 +38,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: true,
+    visibil: false,
     link:"https://neptunemark.com/"
   },
     linkedin={
@@ -55,7 +55,7 @@ const links =[
   },
     mail={
     visibil: true,
-    link:"muhammedashique9061@gmail.com"
+    link:"purchase@cncqatar.com"
   },
     google={
     visibil: false,
